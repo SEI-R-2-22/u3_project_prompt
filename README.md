@@ -24,6 +24,7 @@ Try to think about building an application that will create an engaging user exp
 - Be a **new and original idea**, it cannot be anything we've created in class. It also cannot be from a tutorial.
 - Have separate directories for the frontend (client) and backend within the main repository
 - Include a _beautiful_, professional **README.md** (use [markdown](https://guides.github.com/features/mastering-markdown/))
+- Your README should have your group members names, links to socials, a detailed description of your project, technologies used, a getting started section (with links to your deployed site and Trello), screenshots of your final product (no more than 2-3), future updates, and credits.
 - Include a minimum of 3 Sequelize Models (models)
 - At least one `1 to MANY` or `MANY to MANY` association
 - Have full CRUD operations (POST, GET, PUT, DELETE) on at least one model
