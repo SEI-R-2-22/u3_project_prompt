@@ -11,9 +11,9 @@ Try to think about building an application that will create an engaging user exp
 
 ## For Project Approval
 
-- Detailed README (Name, links to socials, a detailed description of your project, technologies used)
+- Detailed ReadMe (Name, links to socials, a detailed description of your project, technologies used)
 - Full Entity Relationship Diagram (ERD) for the backend
-- Component Component Hierarchy Diagram (Lucidchart, draw.io, etc.) for the frontend
+- Component Hierarchy Diagram (Lucidchart, draw.io, etc.) for the frontend
 - Trello Board that tells the development story of your app
 - Pitch deck explaining your idea and it's practical use-case (Google Slides, Powerpoint, etc.) to be presented by your group on Monday (June 21)
 - Project must be _well-scoped_, meaning that your team can capably reach MVP by the due date
@@ -26,8 +26,8 @@ Try to think about building an application that will create an engaging user exp
 - Be a **new repo** with *separate development branches* for **each** group member.
 - Be a **realistic idea**. It cannot be anything we've created in class. It also cannot be from an online tutorial or walkthrough.
 - Have separate directories for the frontend (client) and backend within the main repository.
-- Include a _beautiful_, professional **README.md** (use [markdown](https://guides.github.com/features/mastering-markdown/)).
-- Your README should have your group members names, links to socials, a detailed description of your project, technologies used, a getting started section (with links to your deployed site and Trello), screenshots of your final product (no more than 2-3), future updates, and credits.
+- Include a _beautiful_, professional **ReadMe.md** (use [markdown](https://guides.github.com/features/mastering-markdown/)).
+- Your ReadMe should have your group members names, links to socials, a detailed description of your project, technologies used, a getting started section (with links to your deployed site and Trello), screenshots of your final product (no more than 2-3), future updates, and credits.
 - Include user authentication.
 - Include a minimum of 3 Sequelize Models (models).
 - At least one `1 to MANY` or `MANY to MANY` association.
