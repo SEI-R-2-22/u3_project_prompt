@@ -31,7 +31,7 @@ Try to think about building an application that will create an engaging user exp
 - At least one `1 to MANY` or `MANY to MANY` association.
 - Have full CRUD operations (POST, GET, PUT, DELETE) on at least one model.
 - Use functional components with React hooks. Your project cannot have class components.
-- Have at least **60 _meaningful_ `git` commits** - roughly 20 per member utilizing branches and merging. You should be committing your changes to your branch every time you build a new feature, merging, and pulling them as a group.
+- Have at least **80 _meaningful_ `git` commits** - roughly 20 per member utilizing branches and merging. You should be committing your changes to your branch every time you build a new feature, merging, and pulling them as a group.
 - Your code should be properly indented, spaced, and within code blocks. **DO NOT** leave in commented out code that was left unused (bad practice). 
 - Be deployed on [Heroku](https://www.heroku.com/).
 
