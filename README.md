@@ -1,7 +1,7 @@
 # Project 3 - Group Project: Full-Stack PERN 
 
 <div>
-  <img alt="PERN" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.anycouponcode.net%2Fwp-content%2Fuploads%2F2020%2F11%2FPERN-Stack-Build-a-Yelp-clone-PostgresExpressReactNode.jpg&f=1&nofb=1" />
+  <img alt="PERN" src="https://img.search.brave.com/eezM5bBDVsr0Jp1KWcXJzGbfveZGzNKOwpTdwUnFbZ4/fit/1200/1200/ce/1/aHR0cHM6Ly9yZXBv/c2l0b3J5LWltYWdl/cy5naXRodWJ1c2Vy/Y29udGVudC5jb20v/MTQxNzQ0NDc0LzFj/ZTY4MDgwLTc2OWUt/MTFlYS04ZjYyLWQ3/NDM5MDVkYjk1ZQ" />
 </div>
 
 ## Task
