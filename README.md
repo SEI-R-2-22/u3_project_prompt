@@ -1,7 +1,7 @@
 # Project 3 - Group Project: Full-Stack PERN 
 
 <div>
-  <img alt="PERN" src="https://img.search.brave.com/eezM5bBDVsr0Jp1KWcXJzGbfveZGzNKOwpTdwUnFbZ4/fit/1200/1200/ce/1/aHR0cHM6Ly9yZXBv/c2l0b3J5LWltYWdl/cy5naXRodWJ1c2Vy/Y29udGVudC5jb20v/MTQxNzQ0NDc0LzFj/ZTY4MDgwLTc2OWUt/MTFlYS04ZjYyLWQ3/NDM5MDVkYjk1ZQ" />
+  <img alt="PERN" src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/03/PERN.png" />
 </div>
 
 ## Task
